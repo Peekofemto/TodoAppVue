@@ -1,4 +1,4 @@
-# todo_app_vue
+# Todo App made with Vuejs
 
 ## Project setup
 ```
