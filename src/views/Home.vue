@@ -76,4 +76,5 @@ export default {
   .btn{
     background: #666;
   }
+  
 </style>
